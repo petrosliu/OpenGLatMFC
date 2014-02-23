@@ -1,0 +1,31 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: CY457OpenGL - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/CY457OpenGL.res" /d "_DEBUG" "C:\Users\yd\Dropbox\Calibration\CY457OpenGL\CY457OpenGL.rc"" 
+Creating temporary file "C:\Users\yd\AppData\Local\Temp\RSP6474.tmp" with contents
+[
+opengl32.lib glu32.lib glut32.lib glaux.lib winmm.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/CY457OpenGL.pdb" /debug /machine:I386 /out:"Debug/CY457OpenGL.exe" /pdbtype:sept 
+.\Debug\CY457OpenGL.obj
+.\Debug\CY457OpenGLDoc.obj
+.\Debug\CY457OpenGLView.obj
+.\Debug\MainFrm.obj
+.\Debug\StdAfx.obj
+.\Debug\CY457OpenGL.res
+]
+Creating command line "link.exe @C:\Users\yd\AppData\Local\Temp\RSP6474.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+CY457OpenGL.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
